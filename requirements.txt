@@ -1,0 +1,4 @@
+cdktf
+boto3
+cdktf-cdktf-provider-aws
+cdktf-cdktf-provider-docker
